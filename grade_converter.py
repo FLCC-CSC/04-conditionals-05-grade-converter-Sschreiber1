@@ -1,8 +1,8 @@
 # FILE NAME - grade_converter.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Steven Schreiber
+# DATE: 2/27/2026 
+# BRIEF DESCRIPTION: making a grade converter.  
 
 
 
@@ -84,7 +84,7 @@ D
 
 1. What is something you would tell a future student to be careful about when
    doing this lab?
-
+One thing I would tell a future student would be becarful with spaceing when your writing your code and to be careful with the elif statement to make sure that they are in the corrext order so the correct grade outputs.
 
 
 
